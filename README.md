@@ -1,16 +1,35 @@
 ## Hi there 👋
+👋 Hi, I'm Harish Patil
 
-<!--
-**HarishPatil20/Harishpatil20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Engineering Student | 🚀 Tech Enthusiast | 🌐 Web & App Developer
 
-Here are some ideas to get you started:
+I am passionate about building modern web applications, mobile apps, and innovative tech solutions. I enjoy learning new technologies and turning ideas into real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###########
+
+🚀 About Me
+
+🎓 Engineering Student
+
+💡 Interested in Web Development, App Development & 3D Websites
+
+🔧 Love building real-time projects
+
+🌱 Currently learning advanced frontend and full-stack development
+
+👨‍💻 Working on startup-level portfolio and tech solutions
+
+###########
+
+📂 Projects
+
+🌐 3D Portfolio Website
+
+📱 App Development Projects
+
+🔥 College Academic Projects
+
+🤖 Smart System Based Projects
+
+
+
