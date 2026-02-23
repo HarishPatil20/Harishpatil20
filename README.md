@@ -11,7 +11,7 @@ I am passionate about building modern web applications, mobile apps, and innovat
 
 🎓 Engineering Student
 
-💡 Interested in Web Development, App Development & 3D Websites
+💡 Interested in Web Development, App Development 
 
 🔧 Love building real-time projects
 
@@ -23,13 +23,12 @@ I am passionate about building modern web applications, mobile apps, and innovat
 
 📂 Projects
 
-🌐 3D Portfolio Website
+🌐 Portfolio Website
 
 📱 App Development Projects
 
 🔥 College Academic Projects
 
-🤖 Smart System Based Projects
 
 
 
