@@ -25,9 +25,12 @@
 
 ### 📊 GitHub Stats & Progress
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HarishPatil20&show_icons=true&theme=tokyonight" alt="Harish's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishPatil20&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.shion.dev/api?username=HarishPatil20&show_icons=true&theme=tokyonight" alt="Harish's Stats" height="150" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HarishPatil20&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
+
+### 🔥 Coding Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarishPatil20&theme=tokyonight" alt="GitHub Streak" />
 
 ---
 
