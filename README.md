@@ -1,9 +1,15 @@
 # Hi, I'm Harish Patil 👋
 ### 🎓 Final Year Engineering Student | Class of 2027
 
-💻 Engineering Student | 🚀 Tech Enthusiast | 🌐 Web & App Developer
+---
 
-I am passionate about building modern web applications, mobile apps, and innovative tech solutions. I enjoy learning new technologies and turning ideas into real-world projects.
+### 🚀 About Me
+- 📚 Currently pursuing my **Engineering degree** (Expected Graduation: 2027).
+- 🛠️ Passionate about building scalable web applications and exploring **System Architecture**.
+- 🤖 Interested in **Generative AI** and **Robotics** simulations.
+- ⚡ I’m currently working on enhancing my skills in Full-Stack Development and AI integration.
+
+---
 
 ###########
 
