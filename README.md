@@ -1,5 +1,5 @@
-## Hi there 👋
-👋 Hi, I'm Harish Patil
+# Hi, I'm Harish Patil 👋
+### 🎓 Final Year Engineering Student | Class of 2027
 
 💻 Engineering Student | 🚀 Tech Enthusiast | 🌐 Web & App Developer
 
