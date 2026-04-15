@@ -26,7 +26,7 @@
 ### 📊 GitHub Stats & Progress
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=HarishPatil20&show_icons=true&theme=tokyonight" alt="Harish's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishpatil&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishPatil20&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
 ---
